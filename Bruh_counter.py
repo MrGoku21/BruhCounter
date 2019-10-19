@@ -30,4 +30,4 @@ async def bruh(ctx):
     embed.set_footer(text="Made by Marceline <3 (Caasi)")
     await ctx.send(embed=embed)   
 
-bot.run("NjM1MTI5NDEzNjQ5ODI1Nzky.Xask-A.vASMVl1Pb25XQJs5DHDSL6J-tSc")                                                                                                                   
+bot.run(" YOUR CLIENT_ID GOES HERE! ")                                                                                                                   
