@@ -1,4 +1,4 @@
-# bruh_counter
+# Bruh Counter
 This is a discord bot. Bruh counter counts how many times the word "bruh" has been mentioned. Commands: !bruh (checks how many times the word has been said) 
 
 Installation:
@@ -8,4 +8,4 @@ Installation:
 3. Enjoy
 
 Creator:
-- Marceline aka Caasi aka MrGoku21 himself
+- Caasi aka MrGoku21 
